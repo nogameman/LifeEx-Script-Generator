@@ -1,0 +1,5 @@
+export FOLDER_IMAGE='/path/to/images'
+export FOLDER_ROI='/path/to/rois'
+export OUTPUT_PATH='/path/to/output/config.txt'
+export FILE_SUFFIX='_FLAIR.nii.gz'
+python main.py
