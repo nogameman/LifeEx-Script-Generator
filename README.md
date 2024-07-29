@@ -1,0 +1,1 @@
+Life Ex is a radiomics Feature extraction software that extracts a range of features specific to tissues. This extraction can be scriptable for latge datasets. This script generates a .txt file that can be dropped into LifeEx to begin feature extraction. 
